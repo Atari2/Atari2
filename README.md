@@ -1,4 +1,4 @@
-[![Atari2's github stats](https://github-readme-stats.vercel.app/api?username=Atari2&count_private=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Atari2's github stats](https://github-readme-stats.vercel.app/api?username=Atari2&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atari2)](https://github.com/anuraghazra/github-readme-stats)
 <br>
