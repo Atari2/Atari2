@@ -1,5 +1,8 @@
-### Hi there 👋
-
+[![Atari2's github stats](https://github-readme-stats.vercel.app/api?username=Atari2&count_private=True&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atari2)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Atari2&repo=SpriteToolSuperDelux)](https://github.com/JackTheSpades/SpriteToolSuperDelux)
 <!--
 **Atari2/Atari2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
