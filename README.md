@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atari2)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JackTheSpades&repo=SpriteToolSuperDelux)](https://github.com/JackTheSpades/SpriteToolSuperDelux)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Atari2&repo=ARLib)](https://github.com/Atari2/ARLib)
 <!--
 **Atari2/Atari2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
